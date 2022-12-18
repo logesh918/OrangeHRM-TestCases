@@ -6,11 +6,6 @@ import time
 # Create variables for login credentials.
 username = "Admin"
 password = "admin123"
-First_Name = "Sachin"
-Last_Name = "Tendulkar"
-Emp_Pass = "Mcc@1234"
-Confirm_Pass ="Mcc@1234"
-
 
 # Launch the browser and open the github URL in your web driver.
 driver = webdriver.Chrome('chromedriver')
